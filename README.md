@@ -25,7 +25,7 @@
 
 A meme-sharing web application where users can explore trending memes, create personalized memes, and manage their profiles and meme gallery.
 
-🔗 **Live Demo:** https://meme-hubby-shweta.netlify.app
+🔗 **Live Demo:** (https://memeshubbyshweta.netlify.app/)
 
 ### 🏥 Health-Tracker
 
