@@ -25,7 +25,7 @@
 
 A meme-sharing web application where users can explore trending memes, create personalized memes, and manage their profiles and meme gallery.
 
-🔗 **Live Demo:** (https://memeshubbyshweta.netlify.app/)
+🔗 **GitHub:** https://github.com/aasritha917/MemeHub
 
 ### 🏥 Health-Tracker
 
@@ -43,7 +43,7 @@ A lightweight meme creation application that allows users to add text, edit imag
 
 A plant management application designed to help users identify plants, manage care routines, access plant-care information, and track plant growth.
 
-🔗 **Live Demo:** https://gardening-planner.vercel.app
+🔗 **GitHub:** (https://github.com/Shwetaaa-coder/plant-app)
 ## 🛠️ Languages & Tools
 
 <p align="left">
