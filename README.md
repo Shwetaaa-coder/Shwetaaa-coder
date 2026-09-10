@@ -18,13 +18,8 @@
 * 🤝 Open to collaborating on meaningful full-stack projects
 * 🌱 Continuously improving my skills in full-stack development
 
+
 ## 🚀 Featured Projects
-
-### 🌱 Plantifull
-
-A plant management application designed to help users identify plants, manage care routines, access plant-care information, and track plant growth.
-
-🔗 **Live Demo:** https://gardening-planner.vercel.app
 
 ### 😂 MemeHub
 
@@ -32,6 +27,23 @@ A meme-sharing web application where users can explore trending memes, create pe
 
 🔗 **Live Demo:** https://meme-hubby-shweta.netlify.app
 
+### 🏥 Health-Tracker
+
+A full-stack health and wellness application that helps users track and manage daily healthy habits such as water intake, exercise, sleep, and nutrition.
+
+🔗 **GitHub:** https://github.com/shwetaaa-coder/Health-Tracker
+
+### 🎨 Hackathons-project
+
+A lightweight meme creation application that allows users to add text, edit images, and generate share-ready memes quickly with an easy-to-use interface.
+
+🔗 **GitHub:** https://github.com/shwetaaa-coder/Hackathons-project
+
+### 🌱 Plantifull
+
+A plant management application designed to help users identify plants, manage care routines, access plant-care information, and track plant growth.
+
+🔗 **Live Demo:** https://gardening-planner.vercel.app
 ## 🛠️ Languages & Tools
 
 <p align="left">
