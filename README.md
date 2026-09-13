@@ -46,6 +46,15 @@ A plant management application designed to help users identify plants, manage ca
 🔗 **GitHub:** https://github.com/Shwetaaa-coder/plant-app
 ## 🛠️ Languages & Tools
 
+### 🌤️ Weather App
+
+A responsive weather application that allows users to search for cities, view current weather conditions, and check a 5-day forecast with details such as temperature, humidity, wind speed, sunrise, and sunset.
+
+🔗 **GitHub:** https://github.com/Shwetaaa-coder/weather-app
+
+## 🛠️ Languages & Tools
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
