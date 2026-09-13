@@ -44,7 +44,6 @@ A lightweight meme creation application that allows users to add text, edit imag
 A plant management application designed to help users identify plants, manage care routines, access plant-care information, and track plant growth.
 
 🔗 **GitHub:** https://github.com/Shwetaaa-coder/plant-app
-## 🛠️ Languages & Tools
 
 ### 🌤️ Weather App
 
