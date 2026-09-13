@@ -21,12 +21,6 @@
 
 ## 🚀 Featured Projects
 
-### 😂 MemeHub
-
-A meme-sharing web application where users can explore trending memes, create personalized memes, and manage their profiles and meme gallery.
-
-🔗 **GitHub:** https://github.com/aasritha917/MemeHub
-
 ### 🏥 Health-Tracker
 
 A full-stack health and wellness application that helps users track and manage daily healthy habits such as water intake, exercise, sleep, and nutrition.
@@ -49,7 +43,14 @@ A plant management application designed to help users identify plants, manage ca
 
 A responsive weather application that allows users to search for cities, view current weather conditions, and check a 5-day forecast with details such as temperature, humidity, wind speed, sunrise, and sunset.
 
-🔗 **GitHub:** https://github.com/Shwetaaa-coder/weather-app
+🔗 **GitHub:** https://github.com/Shwetaaa-coder/WeatherApp
+
+### 😂 MemeHub
+
+A meme-sharing web application where users can explore trending memes, create personalized memes, and manage their profiles and meme gallery.
+
+🔗 **GitHub:** https://github.com/aasritha917/MemeHub
+
 
 ## 🛠️ Languages & Tools
 
